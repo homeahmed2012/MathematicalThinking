@@ -7,13 +7,13 @@
 (b) Strong Dollar means a weak Yuan <br />
 > **D ⇒ ¬Y**<br />
 ( c)Trade agreement fails on news of weak Dollar. <br />
-> ** ¬D  ⇒ ¬Y**<br />
+> **¬D  ⇒ ¬Y**<br />
 (d) If new trade agreement is signed, Dollar and Yuan can’t both remain strong  <br />
-> **T  ⇒¬ (Y^D).**<br />
+> **T  ⇒¬ (Y^D)** <br />
 (e) Dollar weak but Yuan strong, following new trade agreement. <br />
 > **(¬D ^ Y)  ⇒ T**<br />
 (f) If the trade agreement is signed, a rise in the Yuan will result in a fall in the Dollar. <br />
-> **Y^T  ⇒ ¬D**  or **  T    ⇒¬[Y    ⇒ ¬D]** <br />
+> **Y^T  ⇒ ¬D**  or **T    ⇒¬[Y    ⇒ ¬D]** <br />
 (g) New trade agreement means Dollar and Yuan will rise and fall together. <br />
 > **T -->  (Y^D)v¬(Y^D).**<br />
 (h) New trade agreement will be good for one side, but no one knows which.  <br />
