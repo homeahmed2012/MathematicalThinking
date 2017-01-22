@@ -1,26 +1,23 @@
 # Introduction to Mathematical Thinking ASSIGNMENT 3
 
-1. Let D be the statement “The dollar is strong”, Y the statement “The Yuan is strong” and T
-the statement “New US–China trade agreement signed”. Express the main content of each of the
-following (fictitious) newspaper headlines in logical notation. (Remember, logical notation captures
-truth, but not the many nuances and inferences of natural language.) As before, make sure you
-could justify and defend your answers.
+1. 
 (a) New trade agreement **_will lead_** to strong currencies in both countries.<br />
 > **T  ⇒ Y^D**
+<br />
 (b) Strong Dollar means a weak Yuan <br />
-> **D ⇒ ¬Y**
+> **D ⇒ ¬Y**<br />
 ( c)Trade agreement fails on news of weak Dollar. <br />
-> ** ¬D  ⇒ ¬Y**
+> ** ¬D  ⇒ ¬Y**<br />
 (d) If new trade agreement is signed, Dollar and Yuan can’t both remain strong  <br />
-> **T  ⇒¬ (Y^D).**
+> **T  ⇒¬ (Y^D).**<br />
 (e) Dollar weak but Yuan strong, following new trade agreement. <br />
-> **(¬D ^ Y)  ⇒ T**
+> **(¬D ^ Y)  ⇒ T**<br />
 (f) If the trade agreement is signed, a rise in the Yuan will result in a fall in the Dollar. <br />
-> **Y^T  ⇒ ¬D**  or **  T    ⇒¬[Y    ⇒ ¬D]** 
+> **Y^T  ⇒ ¬D**  or **  T    ⇒¬[Y    ⇒ ¬D]** <br />
 (g) New trade agreement means Dollar and Yuan will rise and fall together. <br />
-> **T -->  (Y^D)v¬(Y^D).**
+> **T -->  (Y^D)v¬(Y^D).**<br />
 (h) New trade agreement will be good for one side, but no one knows which.  <br />
-> **T  ⇒ (D ^¬Y)v(¬D ^Y)** 
+> **T  ⇒ (D ^¬Y)v(¬D ^Y)** <br />
 <br />
 2. Complete the following truth table
 
