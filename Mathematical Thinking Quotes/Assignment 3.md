@@ -5,21 +5,23 @@ the statement “New US–China trade agreement signed”. Express the main cont
 following (fictitious) newspaper headlines in logical notation. (Remember, logical notation captures
 truth, but not the many nuances and inferences of natural language.) As before, make sure you
 could justify and defend your answers.
-(a) New trade agreement **_will lead_** to strong currencies in both countries.** T  ⇒ Y^D**
-(b) Strong Dollar means a weak Yuan 
+(a) New trade agreement **_will lead_** to strong currencies in both countries.<br />
+> **T  ⇒ Y^D**
+(b) Strong Dollar means a weak Yuan <br />
 > **D ⇒ ¬Y**
-( c)Trade agreement fails on news of weak Dollar. 
+( c)Trade agreement fails on news of weak Dollar. <br />
 > ** ¬D  ⇒ ¬Y**
-(d) If new trade agreement is signed, Dollar and Yuan can’t both remain strong  
+(d) If new trade agreement is signed, Dollar and Yuan can’t both remain strong  <br />
 > **T  ⇒¬ (Y^D).**
-(e) Dollar weak but Yuan strong, following new trade agreement. 
+(e) Dollar weak but Yuan strong, following new trade agreement. <br />
 > **(¬D ^ Y)  ⇒ T**
-(f) If the trade agreement is signed, a rise in the Yuan will result in a fall in the Dollar. 
+(f) If the trade agreement is signed, a rise in the Yuan will result in a fall in the Dollar. <br />
 > **Y^T  ⇒ ¬D**  or **  T    ⇒¬[Y    ⇒ ¬D]** 
-(g) New trade agreement means Dollar and Yuan will rise and fall together. 
+(g) New trade agreement means Dollar and Yuan will rise and fall together. <br />
 > **T -->  (Y^D)v¬(Y^D).**
-(h) New trade agreement will be good for one side, but no one knows which.  
+(h) New trade agreement will be good for one side, but no one knows which.  <br />
 > **T  ⇒ (D ^¬Y)v(¬D ^Y)** 
+<br />
 2. Complete the following truth table
 
 |`¬φ` |` ¬φ` | `ψ `| `φ ⇒ ψ` | `¬φ ∨ ψ `|
